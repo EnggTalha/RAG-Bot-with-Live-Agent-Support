@@ -37,13 +37,15 @@ streamlit run app.py
 # Usage : 
 Chat Mode:
 Access the app at http://localhost:8501.
-Select "Chat" from the sidebar to interact with the bot.
-Ask about web development, digital marketing, or other services. The bot responds using RAG or a friendly greeting for simple inputs (e.g., "hi").
-Admin Dashboard:
-Select "Admin Dashboard" from the sidebar.
-View the latest user session, including messages and timestamps.
-Take over a session to respond as a human agent or release it back to the bot.
-Conversation Storage:
+1 Select "Chat" from the sidebar to interact with the bot.
+2 Ask about web development, digital marketing, or other services. The bot responds using RAG or a friendly greeting for simple inputs (e.g., "hi").
+
+#Admin Dashboard:
+1 Select "Admin Dashboard" from the sidebar.
+2 View the latest user session, including messages and timestamps.
+3 Take over a session to respond as a human agent or release it back to the bot.
+
+#Conversation Storage:
 Chats are saved in Conversation/conversations.txt for persistence.
 
 # Project Structure :  RAG-Bot-with-Live-Agent-Support/

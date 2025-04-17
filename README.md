@@ -28,7 +28,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 # Install dependencies:
 pip install -r requirements.txt
 
-# Create a .env file in the root directory and add your OpenAI API key :
+# Create a .env file in the root directory  :
   OPENAI_API_KEY=your-api-key-here
 
 # Run the application: 
